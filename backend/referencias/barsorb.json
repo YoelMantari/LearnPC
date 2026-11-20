@@ -1,0 +1,1361 @@
+{
+ "handle": "barsorb",
+ "checked": "2026-11-20",
+ "complete": false,
+ "problems": [
+  {
+   "id": "cf:1199:B",
+   "title": "Water Lily",
+   "tags": [
+    "geometry",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1199/problem/B"
+  },
+  {
+   "id": "cf:157:B",
+   "title": "Trace",
+   "tags": [
+    "geometry",
+    "sortings"
+   ],
+   "url": "https://codeforces.com/contest/157/problem/B"
+  },
+  {
+   "id": "cf:17:A",
+   "title": "Noldbach problem",
+   "tags": [
+    "brute force",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/17/problem/A"
+  },
+  {
+   "id": "cf:116:A",
+   "title": "Tram",
+   "tags": [
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/116/problem/A"
+  },
+  {
+   "id": "cf:677:A",
+   "title": "Vanya and Fence",
+   "tags": [
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/677/problem/A"
+  },
+  {
+   "id": "cf:41:A",
+   "title": "Translation",
+   "tags": [
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/41/problem/A"
+  },
+  {
+   "id": "cf:96:A",
+   "title": "Football",
+   "tags": [
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/96/problem/A"
+  },
+  {
+   "id": "cf:734:A",
+   "title": "Anton and Danik",
+   "tags": [
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/734/problem/A"
+  },
+  {
+   "id": "cf:69:A",
+   "title": "Young Physicist",
+   "tags": [
+    "implementation",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/69/problem/A"
+  },
+  {
+   "id": "cf:110:A",
+   "title": "Nearly Lucky Number",
+   "tags": [
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/110/problem/A"
+  },
+  {
+   "id": "cf:977:A",
+   "title": "Wrong Subtraction",
+   "tags": [
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/977/problem/A"
+  },
+  {
+   "id": "cf:118:A",
+   "title": "String Task",
+   "tags": [
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/118/problem/A"
+  },
+  {
+   "id": "cf:59:A",
+   "title": "Word",
+   "tags": [
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/59/problem/A"
+  },
+  {
+   "id": "cf:266:A",
+   "title": "Stones on the Table",
+   "tags": [
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/266/problem/A"
+  },
+  {
+   "id": "cf:617:A",
+   "title": "Elephant",
+   "tags": [
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/617/problem/A"
+  },
+  {
+   "id": "cf:227:A",
+   "title": "Where do I Turn?",
+   "tags": [
+    "geometry"
+   ],
+   "url": "https://codeforces.com/contest/227/problem/A"
+  },
+  {
+   "id": "cf:498:A",
+   "title": "Crazy Town",
+   "tags": [
+    "geometry"
+   ],
+   "url": "https://codeforces.com/contest/498/problem/A"
+  },
+  {
+   "id": "cf:749:B",
+   "title": "Parallelogram is Back",
+   "tags": [
+    "brute force",
+    "constructive algorithms",
+    "geometry"
+   ],
+   "url": "https://codeforces.com/contest/749/problem/B"
+  },
+  {
+   "id": "cf:1248:A",
+   "title": "Integer Points",
+   "tags": [
+    "geometry",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1248/problem/A"
+  },
+  {
+   "id": "cf:279:B",
+   "title": "Books",
+   "tags": [
+    "binary search",
+    "brute force",
+    "implementation",
+    "two pointers"
+   ],
+   "url": "https://codeforces.com/contest/279/problem/B"
+  },
+  {
+   "id": "cf:2261:C",
+   "title": "I Know About a Million Things",
+   "tags": [
+    "games",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/2261/problem/C"
+  },
+  {
+   "id": "cf:474:B",
+   "title": "Worms",
+   "tags": [
+    "binary search",
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/474/problem/B"
+  },
+  {
+   "id": "cf:706:B",
+   "title": "Interesting drink",
+   "tags": [
+    "binary search",
+    "dp",
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/706/problem/B"
+  },
+  {
+   "id": "cf:295:A",
+   "title": "Greg and Array",
+   "tags": [
+    "data structures",
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/295/problem/A"
+  },
+  {
+   "id": "cf:313:B",
+   "title": "Ilya and Queries",
+   "tags": [
+    "dp",
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/313/problem/B"
+  },
+  {
+   "id": "cf:363:B",
+   "title": "Fence",
+   "tags": [
+    "brute force",
+    "dp"
+   ],
+   "url": "https://codeforces.com/contest/363/problem/B"
+  },
+  {
+   "id": "cf:1178:B",
+   "title": "WOW Factor",
+   "tags": [
+    "dp",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/1178/problem/B"
+  },
+  {
+   "id": "cf:1473:B",
+   "title": "String LCM",
+   "tags": [
+    "brute force",
+    "math",
+    "number theory",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/1473/problem/B"
+  },
+  {
+   "id": "cf:1029:A",
+   "title": "Many Equal Substrings",
+   "tags": [
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/1029/problem/A"
+  },
+  {
+   "id": "cf:2275:B",
+   "title": "Did Not Go to Print",
+   "tags": [
+    "data structures",
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/2275/problem/B"
+  },
+  {
+   "id": "cf:2275:A",
+   "title": "In Search of Convenience",
+   "tags": [
+    "geometry",
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/2275/problem/A"
+  },
+  {
+   "id": "cf:1355:A",
+   "title": "Sequence with Digits",
+   "tags": [
+    "brute force",
+    "implementation",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1355/problem/A"
+  },
+  {
+   "id": "cf:900:B",
+   "title": "Position in Fraction",
+   "tags": [
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/900/problem/B"
+  },
+  {
+   "id": "cf:1350:A",
+   "title": "Orac and Factors",
+   "tags": [
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1350/problem/A"
+  },
+  {
+   "id": "cf:1714:E",
+   "title": "Add Modulo 10",
+   "tags": [
+    "brute force",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1714/problem/E"
+  },
+  {
+   "id": "cf:791:A",
+   "title": "Bear and Big Brother",
+   "tags": [
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/791/problem/A"
+  },
+  {
+   "id": "cf:1497:B",
+   "title": "M-arrays",
+   "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1497/problem/B"
+  },
+  {
+   "id": "cf:1328:A",
+   "title": "Divisibility Problem",
+   "tags": [
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1328/problem/A"
+  },
+  {
+   "id": "cf:1374:D",
+   "title": "Zero Remainder Array",
+   "tags": [
+    "math",
+    "sortings",
+    "two pointers"
+   ],
+   "url": "https://codeforces.com/contest/1374/problem/D"
+  },
+  {
+   "id": "cf:742:A",
+   "title": "Arpa’s hard exam and Mehrdad’s naive cheat",
+   "tags": [
+    "implementation",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/742/problem/A"
+  },
+  {
+   "id": "cf:2267:B",
+   "title": "Fashionable Array",
+   "tags": [
+    "brute force",
+    "constructive algorithms",
+    "sortings"
+   ],
+   "url": "https://codeforces.com/contest/2267/problem/B"
+  },
+  {
+   "id": "cf:2267:A",
+   "title": "Turn Into a Palindrome",
+   "tags": [
+    "greedy",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/2267/problem/A"
+  },
+  {
+   "id": "cf:235:A",
+   "title": "LCM Challenge",
+   "tags": [
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/235/problem/A"
+  },
+  {
+   "id": "cf:75:C",
+   "title": "Modified GCD",
+   "tags": [
+    "binary search",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/75/problem/C"
+  },
+  {
+   "id": "cf:1294:C",
+   "title": "Product of Three Numbers",
+   "tags": [
+    "greedy",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1294/problem/C"
+  },
+  {
+   "id": "cf:776:B",
+   "title": "Sherlock and his girlfriend",
+   "tags": [
+    "constructive algorithms",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/776/problem/B"
+  },
+  {
+   "id": "cf:26:A",
+   "title": "Almost Prime",
+   "tags": [
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/26/problem/A"
+  },
+  {
+   "id": "cf:2266:C",
+   "title": "AND, OR, Sort!",
+   "tags": [
+    "greedy",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/2266/problem/C"
+  },
+  {
+   "id": "cf:2266:B",
+   "title": "Three Piles",
+   "tags": [
+    "games",
+    "greedy",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/2266/problem/B"
+  },
+  {
+   "id": "cf:2266:A",
+   "title": "Good Contest",
+   "tags": [
+    "greedy"
+   ],
+   "url": "https://codeforces.com/contest/2266/problem/A"
+  },
+  {
+   "id": "cf:230:B",
+   "title": "T-primes",
+   "tags": [
+    "binary search",
+    "implementation",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/230/problem/B"
+  },
+  {
+   "id": "cf:312:B",
+   "title": "Archer",
+   "tags": [
+    "math",
+    "probabilities"
+   ],
+   "url": "https://codeforces.com/contest/312/problem/B"
+  },
+  {
+   "id": "cf:9:A",
+   "title": "Die Roll",
+   "tags": [
+    "math",
+    "probabilities"
+   ],
+   "url": "https://codeforces.com/contest/9/problem/A"
+  },
+  {
+   "id": "cf:697:B",
+   "title": "Barnicle",
+   "tags": [
+    "brute force",
+    "implementation",
+    "math",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/697/problem/B"
+  },
+  {
+   "id": "cf:664:A",
+   "title": "Complicated GCD",
+   "tags": [
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/664/problem/A"
+  },
+  {
+   "id": "cf:151:A",
+   "title": "Soft Drinking",
+   "tags": [
+    "implementation",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/151/problem/A"
+  },
+  {
+   "id": "cf:131:A",
+   "title": "cAPS lOCK",
+   "tags": [
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/131/problem/A"
+  },
+  {
+   "id": "cf:1409:A",
+   "title": "Yet Another Two Integers Problem",
+   "tags": [
+    "greedy",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1409/problem/A"
+  },
+  {
+   "id": "cf:1399:A",
+   "title": "Remove Smallest",
+   "tags": [
+    "greedy",
+    "sortings"
+   ],
+   "url": "https://codeforces.com/contest/1399/problem/A"
+  },
+  {
+   "id": "cf:785:A",
+   "title": "Anton and Polyhedrons",
+   "tags": [
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/785/problem/A"
+  },
+  {
+   "id": "cf:405:A",
+   "title": "Gravity Flip",
+   "tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+   ],
+   "url": "https://codeforces.com/contest/405/problem/A"
+  },
+  {
+   "id": "cf:281:A",
+   "title": "Word Capitalization",
+   "tags": [
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/281/problem/A"
+  },
+  {
+   "id": "cf:339:A",
+   "title": "Helpful Maths",
+   "tags": [
+    "greedy",
+    "implementation",
+    "sortings",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/339/problem/A"
+  },
+  {
+   "id": "cf:112:A",
+   "title": "Petya and Strings",
+   "tags": [
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/112/problem/A"
+  },
+  {
+   "id": "cf:263:A",
+   "title": "Beautiful Matrix",
+   "tags": [
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/263/problem/A"
+  },
+  {
+   "id": "cf:50:A",
+   "title": "Domino piling",
+   "tags": [
+    "greedy",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/50/problem/A"
+  },
+  {
+   "id": "cf:158:A",
+   "title": "Next Round",
+   "tags": [],
+   "url": "https://codeforces.com/contest/158/problem/A"
+  },
+  {
+   "id": "cf:282:A",
+   "title": "Bit++",
+   "tags": [
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/282/problem/A"
+  },
+  {
+   "id": "cf:71:A",
+   "title": "Way Too Long Words",
+   "tags": [
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/71/problem/A"
+  },
+  {
+   "id": "cf:1:A",
+   "title": "Theatre Square",
+   "tags": [
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1/problem/A"
+  },
+  {
+   "id": "cf:1873:A",
+   "title": "Short Sort",
+   "tags": [
+    "brute force",
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/1873/problem/A"
+  },
+  {
+   "id": "cf:1512:A",
+   "title": "Spy Detected!",
+   "tags": [
+    "brute force",
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/1512/problem/A"
+  },
+  {
+   "id": "cf:1703:A",
+   "title": "YES or YES?",
+   "tags": [
+    "brute force",
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/1703/problem/A"
+  },
+  {
+   "id": "cf:732:A",
+   "title": "Buy a Shovel",
+   "tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/732/problem/A"
+  },
+  {
+   "id": "cf:155:A",
+   "title": "I_love_\\%username\\%",
+   "tags": [
+    "brute force"
+   ],
+   "url": "https://codeforces.com/contest/155/problem/A"
+  },
+  {
+   "id": "cf:750:A",
+   "title": "New Year and Hurry",
+   "tags": [
+    "binary search",
+    "brute force",
+    "implementation",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/750/problem/A"
+  },
+  {
+   "id": "cf:236:A",
+   "title": "Boy or Girl",
+   "tags": [
+    "brute force",
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/236/problem/A"
+  },
+  {
+   "id": "cf:231:A",
+   "title": "Team",
+   "tags": [
+    "brute force",
+    "greedy"
+   ],
+   "url": "https://codeforces.com/contest/231/problem/A"
+  },
+  {
+   "id": "cf:4:A",
+   "title": "Watermelon",
+   "tags": [
+    "brute force",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/4/problem/A"
+  },
+  {
+   "id": "cf:268:A",
+   "title": "Games",
+   "tags": [
+    "brute force"
+   ],
+   "url": "https://codeforces.com/contest/268/problem/A"
+  },
+  {
+   "id": "cf:580:A",
+   "title": "Kefa and First Steps",
+   "tags": [
+    "brute force",
+    "dp",
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/580/problem/A"
+  },
+  {
+   "id": "cf:479:A",
+   "title": "Expression",
+   "tags": [
+    "brute force",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/479/problem/A"
+  },
+  {
+   "id": "cf:271:A",
+   "title": "Beautiful Year",
+   "tags": [
+    "brute force"
+   ],
+   "url": "https://codeforces.com/contest/271/problem/A"
+  },
+  {
+   "id": "cf:546:A",
+   "title": "Soldier and Bananas",
+   "tags": [
+    "brute force",
+    "implementation",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/546/problem/A"
+  },
+  {
+   "id": "cf:822:A",
+   "title": "I'm bored with life",
+   "tags": [
+    "implementation",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/822/problem/A"
+  },
+  {
+   "id": "cf:1325:A",
+   "title": "EhAb AnD gCd",
+   "tags": [
+    "constructive algorithms",
+    "greedy",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1325/problem/A"
+  },
+  {
+   "id": "cf:1521:A",
+   "title": "Nastia and Nearly Good Numbers",
+   "tags": [
+    "constructive algorithms",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1521/problem/A"
+  },
+  {
+   "id": "cf:577:A",
+   "title": "Multiplication Table",
+   "tags": [
+    "implementation",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/577/problem/A"
+  },
+  {
+   "id": "cf:1389:A",
+   "title": "LCM Problem",
+   "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1389/problem/A"
+  },
+  {
+   "id": "cf:1985:B",
+   "title": "Maximum Multiple Sum",
+   "tags": [
+    "brute force",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1985/problem/B"
+  },
+  {
+   "id": "cf:1899:A",
+   "title": "Game with Integers",
+   "tags": [
+    "games",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1899/problem/A"
+  },
+  {
+   "id": "cf:1520:B",
+   "title": "Ordinary Numbers",
+   "tags": [
+    "brute force",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1520/problem/B"
+  },
+  {
+   "id": "cf:749:A",
+   "title": "Bachgold Problem",
+   "tags": [
+    "greedy",
+    "implementation",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/749/problem/A"
+  },
+  {
+   "id": "cf:1370:A",
+   "title": "Maximum GCD",
+   "tags": [
+    "greedy",
+    "implementation",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1370/problem/A"
+  },
+  {
+   "id": "cf:313:A",
+   "title": "Ilya and Bank Account",
+   "tags": [
+    "implementation",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/313/problem/A"
+  },
+  {
+   "id": "cf:1475:A",
+   "title": "Odd Divisor",
+   "tags": [
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1475/problem/A"
+  },
+  {
+   "id": "cf:472:A",
+   "title": "Design Tutorial: Learn from Math",
+   "tags": [
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/472/problem/A"
+  },
+  {
+   "id": "cf:630:A",
+   "title": "Again Twenty Five!",
+   "tags": [
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/630/problem/A"
+  },
+  {
+   "id": "cf:1459:C",
+   "title": "Row GCD",
+   "tags": [
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1459/problem/C"
+  },
+  {
+   "id": "cf:1999:C",
+   "title": "Showering",
+   "tags": [
+    "greedy",
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/1999/problem/C"
+  },
+  {
+   "id": "cf:1999:B",
+   "title": "Card Game",
+   "tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/1999/problem/B"
+  },
+  {
+   "id": "cf:1999:A",
+   "title": "A+B Again?",
+   "tags": [
+    "implementation",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1999/problem/A"
+  },
+  {
+   "id": "cf:992:B",
+   "title": "Nastya Studies Informatics",
+   "tags": [
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/992/problem/B"
+  },
+  {
+   "id": "cf:1993:A",
+   "title": "Question Marks",
+   "tags": [
+    "greedy",
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/1993/problem/A"
+  },
+  {
+   "id": "cf:1062:B",
+   "title": "Math",
+   "tags": [
+    "greedy",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1062/problem/B"
+  },
+  {
+   "id": "cf:1995:A",
+   "title": "Diagonals",
+   "tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1995/problem/A"
+  },
+  {
+   "id": "cf:1966:B",
+   "title": "Rectangle Filling",
+   "tags": [
+    "constructive algorithms",
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/1966/problem/B"
+  },
+  {
+   "id": "cf:1966:A",
+   "title": "Card Exchange",
+   "tags": [
+    "constructive algorithms",
+    "games",
+    "greedy"
+   ],
+   "url": "https://codeforces.com/contest/1966/problem/A"
+  },
+  {
+   "id": "cf:1857:B",
+   "title": "Maximum Rounding",
+   "tags": [
+    "greedy",
+    "implementation",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1857/problem/B"
+  },
+  {
+   "id": "cf:1933:B",
+   "title": "Turtle Math: Fast Three Task",
+   "tags": [
+    "implementation",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1933/problem/B"
+  },
+  {
+   "id": "cf:1951:A",
+   "title": "Dual Trigger",
+   "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1951/problem/A"
+  },
+  {
+   "id": "cf:1851:A",
+   "title": "Escalator Conversations",
+   "tags": [
+    "brute force",
+    "constructive algorithms",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1851/problem/A"
+  },
+  {
+   "id": "cf:1833:A",
+   "title": "Musical Puzzle",
+   "tags": [
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/1833/problem/A"
+  },
+  {
+   "id": "cf:1845:A",
+   "title": "Forbidden Integer",
+   "tags": [
+    "constructive algorithms",
+    "implementation",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1845/problem/A"
+  },
+  {
+   "id": "cf:1922:A",
+   "title": "Tricky Template",
+   "tags": [
+    "constructive algorithms",
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/1922/problem/A"
+  },
+  {
+   "id": "cf:1931:A",
+   "title": "Recovering a Small String",
+   "tags": [
+    "brute force",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/1931/problem/A"
+  },
+  {
+   "id": "cf:1741:A",
+   "title": "Compare T-Shirt Sizes",
+   "tags": [
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/1741/problem/A"
+  },
+  {
+   "id": "cf:1731:A",
+   "title": "Joey Takes Money",
+   "tags": [
+    "greedy",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1731/problem/A"
+  },
+  {
+   "id": "cf:1929:B",
+   "title": "Sasha and the Drawing",
+   "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1929/problem/B"
+  },
+  {
+   "id": "cf:1942:A",
+   "title": "Farmer John's Challenge",
+   "tags": [
+    "constructive algorithms",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1942/problem/A"
+  },
+  {
+   "id": "cf:1816:A",
+   "title": "Ian Visits Mary",
+   "tags": [
+    "constructive algorithms",
+    "geometry",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1816/problem/A"
+  },
+  {
+   "id": "cf:1929:A",
+   "title": "Sasha and the Beautiful Array",
+   "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "sortings"
+   ],
+   "url": "https://codeforces.com/contest/1929/problem/A"
+  },
+  {
+   "id": "cf:1902:A",
+   "title": "Binary Imbalance",
+   "tags": [
+    "constructive algorithms"
+   ],
+   "url": "https://codeforces.com/contest/1902/problem/A"
+  },
+  {
+   "id": "cf:1916:A",
+   "title": "2023",
+   "tags": [
+    "constructive algorithms",
+    "implementation",
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1916/problem/A"
+  },
+  {
+   "id": "cf:1914:A",
+   "title": "Problemsolving Log",
+   "tags": [
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/1914/problem/A"
+  },
+  {
+   "id": "cf:1921:B",
+   "title": "Arranging Cats",
+   "tags": [
+    "greedy",
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/1921/problem/B"
+  },
+  {
+   "id": "cf:1920:A",
+   "title": "Satisfying Constraints",
+   "tags": [
+    "brute force",
+    "greedy",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1920/problem/A"
+  },
+  {
+   "id": "cf:1950:D",
+   "title": "Product of Binary Decimals",
+   "tags": [
+    "brute force",
+    "dp",
+    "implementation",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1950/problem/D"
+  },
+  {
+   "id": "cf:1950:C",
+   "title": "Clock Conversion",
+   "tags": [
+    "implementation",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1950/problem/C"
+  },
+  {
+   "id": "cf:1950:B",
+   "title": "Upscaling",
+   "tags": [
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/1950/problem/B"
+  },
+  {
+   "id": "cf:1950:A",
+   "title": "Stair, Peak, or Neither?",
+   "tags": [
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/1950/problem/A"
+  },
+  {
+   "id": "cf:1946:A",
+   "title": "Median of an Array",
+   "tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+   ],
+   "url": "https://codeforces.com/contest/1946/problem/A"
+  },
+  {
+   "id": "cf:1945:B",
+   "title": "Fireworks",
+   "tags": [
+    "math",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/1945/problem/B"
+  },
+  {
+   "id": "cf:1945:A",
+   "title": "Setting up Camp",
+   "tags": [
+    "greedy",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1945/problem/A"
+  },
+  {
+   "id": "cf:1941:B",
+   "title": "Rudolf and 121",
+   "tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1941/problem/B"
+  },
+  {
+   "id": "cf:1941:A",
+   "title": "Rudolf and the Ticket",
+   "tags": [
+    "brute force",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1941/problem/A"
+  },
+  {
+   "id": "cf:1829:B",
+   "title": "Blank Space",
+   "tags": [
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/1829/problem/B"
+  },
+  {
+   "id": "cf:1560:A",
+   "title": "Dislike of Threes",
+   "tags": [
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/1560/problem/A"
+  },
+  {
+   "id": "cf:1343:B",
+   "title": "Balanced Array",
+   "tags": [
+    "constructive algorithms",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/1343/problem/B"
+  },
+  {
+   "id": "cf:365:B",
+   "title": "The Fibonacci Segment",
+   "tags": [
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/365/problem/B"
+  },
+  {
+   "id": "cf:22:A",
+   "title": "Second Order Statistics",
+   "tags": [
+    "brute force"
+   ],
+   "url": "https://codeforces.com/contest/22/problem/A"
+  },
+  {
+   "id": "cf:1111:A",
+   "title": "Superhero Transformation",
+   "tags": [
+    "implementation",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/1111/problem/A"
+  },
+  {
+   "id": "cf:899:A",
+   "title": "Splitting in Teams",
+   "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+   ],
+   "url": "https://codeforces.com/contest/899/problem/A"
+  },
+  {
+   "id": "cf:716:A",
+   "title": "Crazy Computer",
+   "tags": [
+    "implementation"
+   ],
+   "url": "https://codeforces.com/contest/716/problem/A"
+  },
+  {
+   "id": "cf:122:A",
+   "title": "Lucky Division",
+   "tags": [
+    "brute force",
+    "number theory"
+   ],
+   "url": "https://codeforces.com/contest/122/problem/A"
+  },
+  {
+   "id": "cf:1927:A",
+   "title": "Make it White",
+   "tags": [
+    "greedy",
+    "strings"
+   ],
+   "url": "https://codeforces.com/contest/1927/problem/A"
+  },
+  {
+   "id": "cf:106552:J",
+   "title": "Just the Betas",
+   "tags": [],
+   "url": "https://codeforces.com/gym/106552/problem/J"
+  }
+ ]
+}

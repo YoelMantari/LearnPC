@@ -1,0 +1,22 @@
+# Datos de práctica, cachés de jueces y copias de seguridad locales
+/datos/
+/respaldos/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal
+
+# Configuración local y claves de API
+.env
+.env.*
+!.env.example
+
+# Dependencias, cobertura y registros de Node.js
+node_modules/
+coverage/
+*.log
+
+# Archivos del sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
